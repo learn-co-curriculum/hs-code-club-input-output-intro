@@ -6,9 +6,9 @@ It's time to dive into Ruby, a powerful backend programming language powering al
 
 ##Some Things You Should Know
 
-You're going to be tackling the lesson `Lesson: #`. If you finish that and still want more, take a stab at the `#` lab. 
+You're going to be tackling the lesson `Lesson: Pizza Order Up`. If you finish that and still want more, take a stab at the `#` lab. 
 
 ## Share Share Share!
 
-We love to see your progress! When you finish `#`, screenshot your terminal and share with **\#flatironcodeclub** and **\#**.
+We love to see your progress! When you finish `#`, screenshot your terminal and share with **\#flatironcodeclub** and **\#orderup**.
 
