@@ -12,3 +12,5 @@ You're going to be tackling the lesson `Lesson: Pizza Order Up`. If you finish t
 
 We love to see your progress! When you finish `#`, screenshot your terminal and share with **\#flatironcodeclub** and **\#orderup**.
 
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-code-club-input-output-intro' title='Let's Get Coding!'>Let's Get Coding!</a> on Learn.co and start learning to code for free.</p>
